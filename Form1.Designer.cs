@@ -81,9 +81,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(596, 13);
+            this.button1.Location = new System.Drawing.Point(619, 13);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(192, 64);
+            this.button1.Size = new System.Drawing.Size(169, 56);
             this.button1.TabIndex = 4;
             this.button1.Text = "Button A";
             this.button1.UseVisualStyleBackColor = true;
@@ -92,10 +92,10 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(-25, -48);
+            this.pictureBox1.Location = new System.Drawing.Point(165, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(944, 632);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.Size = new System.Drawing.Size(448, 380);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
